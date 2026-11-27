@@ -1,0 +1,6 @@
+:root { color-scheme: light dark; font-family: system-ui, sans-serif; }
+body { margin: 0; }
+main { max-width: 42rem; padding: 3rem 1.4rem; margin: auto; line-height: 1.8; }
+header, footer { padding-block: 1rem; border-block-end: 1px solid GrayText; }
+h1 { line-height: 1.35; } h2 { margin-top: 2rem; font-size: 1.25rem; }
+li + li { margin-top: .5rem; } a { text-underline-offset: .2em; }
